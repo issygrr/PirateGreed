@@ -1,6 +1,12 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "{ADB24F80-41D9-48F4-C951-A391122C6B9F}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Water",
+			"Enabled": true
+		}
+	]
 }
