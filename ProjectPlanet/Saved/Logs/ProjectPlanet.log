@@ -810,3 +810,143 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.03.29-17.12.07:736][141]LogAssetRegistry: Asset discovery search completed in 22.4652 seconds
 [2022.03.29-17.12.07:739][141]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000016 seconds (updated 0 objects)
 [2022.03.29-17.12.09:768][147]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/' took 5.22s
+[2022.03.29-17.48.54:512][559]AssetReimport: New page: Detailed File System Changes from 6:48:54 PM
+[2022.03.29-17.48.54:571][559]AssetReimport: 'C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/cannonBarellOnly.fbx' has been created.
+[2022.03.29-17.48.54:571][559]AssetReimport: 'C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/CanonLarge.fbx' has been created.
+[2022.03.29-17.48.54:571][559]AssetReimport: 'C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/ChestImp.fbx' has been created.
+[2022.03.29-17.48.54:583][559]LogSlate: Took 0.003307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.29-17.49.15:193][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.03.29-17.49.15:937][998]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.03.29-17.49.15:937][998]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.03.29-17.49.15:937][998]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2022.03.29-17.49.15:937][998]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 512X512)
+[2022.03.29-17.49.15:937][998]LogStaticMesh: Building static mesh ChestImp_lid...
+[2022.03.29-17.49.15:953][998]LogStaticMesh: Built static mesh [0.02s] /Game/MayaImport/ChestImp_lid.ChestImp_lid
+[2022.03.29-17.49.15:957][998]LogMaterial: Display: Missing cached shader map for material wood1, compiling. 
+[2022.03.29-17.49.16:002][998]LogMaterial: Display: Missing cached shader map for material stone, compiling. 
+[2022.03.29-17.49.16:010][998]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2022.03.29-17.49.16:010][998]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.03.29-17.49.16:010][998]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2022.03.29-17.49.16:010][998]LogStaticMesh: Building static mesh ChestImp_chest...
+[2022.03.29-17.49.16:017][998]LogStaticMesh: Built static mesh [0.01s] /Game/MayaImport/ChestImp_chest.ChestImp_chest
+[2022.03.29-17.49.16:026][998]LogStaticMesh: Building static mesh tower_tower...
+[2022.03.29-17.49.16:062][998]LogStaticMesh: Built static mesh [0.04s] /Game/Import/tower_tower.tower_tower
+[2022.03.29-17.49.16:068][998]LogMaterial: Display: Missing cached shader map for material woodDark, compiling. 
+[2022.03.29-17.49.16:080][998]LogMaterial: Display: Missing cached shader map for material window, compiling. 
+[2022.03.29-17.49.16:095][998]LogMaterial: Display: Missing cached shader map for material _defaultMat, compiling. 
+[2022.03.29-17.49.16:107][998]LogStaticMesh: Building static mesh ship_wreck_ship_wreck_8angles...
+[2022.03.29-17.49.16:241][998]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 48
+[2022.03.29-17.49.16:269][998]LogStaticMesh: Built static mesh [0.16s] /Game/Import/ship_wreck_ship_wreck_8angles.ship_wreck_ship_wreck_8angles
+[2022.03.29-17.49.16:310][998]LogStaticMesh: Building static mesh palm_long_Group_30...
+[2022.03.29-17.49.16:343][998]LogStaticMesh: Built static mesh [0.03s] /Game/Import/palm_long_Group_30.palm_long_Group_30
+[2022.03.29-17.49.16:347][998]LogStaticMesh: Building static mesh palm_long_Group_28...
+[2022.03.29-17.49.16:358][998]LogStaticMesh: Built static mesh [0.01s] /Game/Import/palm_long_Group_28.palm_long_Group_28
+[2022.03.29-17.49.16:388][998]LogStaticMesh: Building static mesh formation_rock_formation_rock...
+[2022.03.29-17.49.16:411][998]LogStaticMesh: Built static mesh [0.02s] /Game/Import/formation_rock_formation_rock.formation_rock_formation_rock
+[2022.03.29-17.49.16:572][998]LogMaterial: Display: Missing cached shader map for material iron, compiling. 
+[2022.03.29-17.49.16:584][998]LogStaticMesh: Building static mesh cannonBarellOnly_cannonLarge...
+[2022.03.29-17.49.16:635][998]LogStaticMesh: Built static mesh [0.05s] /Game/MayaImport/cannonBarellOnly_cannonLarge.cannonBarellOnly_cannonLarge
+[2022.03.29-17.49.16:642][998]LogMaterial: Display: Missing cached shader map for material wood, compiling. 
+[2022.03.29-17.49.16:737][998]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Main.Main
+[2022.03.29-17.49.16:737][998]Cmd: MAP LOAD FILE="../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/ThirdPersonBP/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.29-17.49.16:737][998]LightingResults: New page: Lighting Build
+[2022.03.29-17.49.16:737][998]LoadErrors: New page: Loading map: Main.umap
+[2022.03.29-17.49.16:747][998]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-17.49.16:747][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-17.49.16:747][998]MapCheck: New page: Map Check
+[2022.03.29-17.49.16:747][998]LightingResults: New page: Lighting Build
+[2022.03.29-17.49.16:756][998]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.29-17.49.16:764][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.03.29-17.49.16:767][998]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2022.03.29-17.49.16:971][998]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.29-17.49.16:971][998]LogAIModule: Creating AISystem for world Main
+[2022.03.29-17.49.16:988][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.03.29-17.49.17:024][998]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.29-17.49.17:024][998]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.441ms to complete.
+[2022.03.29-17.49.17:024][998]LogFileHelpers: Loading map 'Main' took 0.288
+[2022.03.29-17.49.20:442][297]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2022.03.29-17.49.20:820][339]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2022.03.29-17.49.20:874][343]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2022.03.29-17.49.23:998][677]AssetReimport: New page: Outstanding source content changes 7:49:23 PM
+[2022.03.29-17.49.24:003][677]LogStaticMesh: Building static mesh cannonBarellOnly_barrel_1...
+[2022.03.29-17.49.24:049][677]LogStaticMesh: Built static mesh [0.05s] /Game/MayaImport/cannonBarellOnly_barrel_1.cannonBarellOnly_barrel_1
+[2022.03.29-17.49.24:067][677]LogEditorFactories: Performing atomic reimport of [C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/cannonBarellOnly.fbx]
+[2022.03.29-17.49.24:102][677]LogFbx: Loading FBX Scene from C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/cannonBarellOnly.fbx
+[2022.03.29-17.49.24:116][677]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.29-17.49.24:129][677]LogStaticMesh: Building static mesh cannonBarellOnly_barrel_1...
+[2022.03.29-17.49.24:173][677]LogStaticMesh: Built static mesh [0.05s] /Engine/Transient.cannonBarellOnly_barrel_1
+[2022.03.29-17.49.24:209][677]LogStaticMesh: Building static mesh cannonBarellOnly_barrel_1...
+[2022.03.29-17.49.24:255][677]LogStaticMesh: Built static mesh [0.05s] /Game/MayaImport/cannonBarellOnly_barrel_1.cannonBarellOnly_barrel_1
+[2022.03.29-17.49.24:268][677]LogEditorFactories: -- imported successfully
+[2022.03.29-17.49.24:286][677]LogEditorFactories: Performing atomic reimport of [C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/cannonBarellOnly.fbx]
+[2022.03.29-17.49.24:305][677]LogFbx: Loading FBX Scene from C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/cannonBarellOnly.fbx
+[2022.03.29-17.49.24:314][677]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.29-17.49.24:323][677]LogStaticMesh: Building static mesh cannonBarellOnly_cannonLarge...
+[2022.03.29-17.49.24:366][677]LogStaticMesh: Built static mesh [0.04s] /Engine/Transient.cannonBarellOnly_cannonLarge
+[2022.03.29-17.49.24:383][677]LogStaticMesh: Building static mesh cannonBarellOnly_cannonLarge...
+[2022.03.29-17.49.24:426][677]LogStaticMesh: Built static mesh [0.04s] /Game/MayaImport/cannonBarellOnly_cannonLarge.cannonBarellOnly_cannonLarge
+[2022.03.29-17.49.24:443][677]LogEditorFactories: -- imported successfully
+[2022.03.29-17.49.24:549][678]LogStaticMesh: Building static mesh CanonLarge_barrel_1...
+[2022.03.29-17.49.24:603][678]LogStaticMesh: Built static mesh [0.06s] /Game/MayaImport/CanonLarge_barrel_1.CanonLarge_barrel_1
+[2022.03.29-17.49.24:610][678]LogEditorFactories: Performing atomic reimport of [C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/CanonLarge.fbx]
+[2022.03.29-17.49.24:629][678]LogFbx: Loading FBX Scene from C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/CanonLarge.fbx
+[2022.03.29-17.49.24:640][678]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.29-17.49.24:652][678]LogStaticMesh: Building static mesh CanonLarge_barrel_1...
+[2022.03.29-17.49.24:728][678]LogStaticMesh: Built static mesh [0.08s] /Engine/Transient.CanonLarge_barrel_1
+[2022.03.29-17.49.24:751][678]LogStaticMesh: Building static mesh CanonLarge_barrel_1...
+[2022.03.29-17.49.24:806][678]LogStaticMesh: Built static mesh [0.06s] /Game/MayaImport/CanonLarge_barrel_1.CanonLarge_barrel_1
+[2022.03.29-17.49.24:819][678]LogEditorFactories: -- imported successfully
+[2022.03.29-17.49.24:840][678]LogStaticMesh: Building static mesh CanonLarge_cannonLarge...
+[2022.03.29-17.49.24:853][678]LogStaticMesh: Built static mesh [0.01s] /Game/MayaImport/CanonLarge_cannonLarge.CanonLarge_cannonLarge
+[2022.03.29-17.49.24:857][678]LogEditorFactories: Performing atomic reimport of [C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/CanonLarge.fbx]
+[2022.03.29-17.49.24:876][678]LogFbx: Loading FBX Scene from C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/CanonLarge.fbx
+[2022.03.29-17.49.24:890][678]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.29-17.49.24:897][678]LogStaticMesh: Building static mesh CanonLarge_cannonLarge...
+[2022.03.29-17.49.24:908][678]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.CanonLarge_cannonLarge
+[2022.03.29-17.49.24:919][678]LogStaticMesh: Building static mesh CanonLarge_cannonLarge...
+[2022.03.29-17.49.24:931][678]LogStaticMesh: Built static mesh [0.01s] /Game/MayaImport/CanonLarge_cannonLarge.CanonLarge_cannonLarge
+[2022.03.29-17.49.24:939][678]LogEditorFactories: -- imported successfully
+[2022.03.29-17.49.24:984][679]LogEditorFactories: Performing atomic reimport of [C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/ChestImp.fbx]
+[2022.03.29-17.49.25:004][679]LogFbx: Loading FBX Scene from C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/ChestImp.fbx
+[2022.03.29-17.49.25:014][679]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.29-17.49.25:017][679]LogStaticMesh: Building static mesh ChestImp_chest...
+[2022.03.29-17.49.25:027][679]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.ChestImp_chest
+[2022.03.29-17.49.25:037][679]LogStaticMesh: Building static mesh ChestImp_chest...
+[2022.03.29-17.49.25:047][679]LogStaticMesh: Built static mesh [0.01s] /Game/MayaImport/ChestImp_chest.ChestImp_chest
+[2022.03.29-17.49.25:055][679]LogEditorFactories: -- imported successfully
+[2022.03.29-17.49.25:072][679]LogEditorFactories: Performing atomic reimport of [C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/ChestImp.fbx]
+[2022.03.29-17.49.25:090][679]LogFbx: Loading FBX Scene from C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/ChestImp.fbx
+[2022.03.29-17.49.25:100][679]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.29-17.49.25:106][679]LogStaticMesh: Building static mesh ChestImp_lid...
+[2022.03.29-17.49.25:131][679]LogStaticMesh: Built static mesh [0.03s] /Engine/Transient.ChestImp_lid
+[2022.03.29-17.49.25:144][679]LogStaticMesh: Building static mesh ChestImp_lid...
+[2022.03.29-17.49.25:168][679]LogStaticMesh: Built static mesh [0.02s] /Game/MayaImport/ChestImp_lid.ChestImp_lid
+[2022.03.29-17.49.25:177][679]LogEditorFactories: -- imported successfully
+[2022.03.29-17.49.25:311][680]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2022.03.29-17.49.25:400][680]LogSavePackage: Moving '../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Saved/cannonBarellOnly_barrel_15FCE755341928FA48303C6A80E4115CF.tmp' to '../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/cannonBarellOnly_barrel_1.uasset'
+[2022.03.29-17.49.25:450][680]LogSavePackage: Moving '../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Saved/cannonBarellOnly_cannonLarge5787C84149048E8A77BE65834E7714A9.tmp' to '../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/cannonBarellOnly_cannonLarge.uasset'
+[2022.03.29-17.49.25:502][680]LogSavePackage: Moving '../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Saved/CanonLarge_barrel_10694D9AB4DDFACA5BE6289B5E865C70B.tmp' to '../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/CanonLarge_barrel_1.uasset'
+[2022.03.29-17.49.25:561][680]LogSavePackage: Moving '../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Saved/CanonLarge_cannonLarge748BC2AE4DA85720AF8EE68FC876EB3A.tmp' to '../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/CanonLarge_cannonLarge.uasset'
+[2022.03.29-17.49.25:613][680]LogSavePackage: Moving '../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Saved/ChestImp_chest21D806084E2C7E0C02DEDCBC63774D8B.tmp' to '../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/ChestImp_chest.uasset'
+[2022.03.29-17.49.25:668][680]LogSavePackage: Moving '../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Saved/ChestImp_lidF66F876F4F2E788F606DAF9BC116AB20.tmp' to '../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/ChestImp_lid.uasset'
+[2022.03.29-17.49.25:723][681]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.29-17.49.25:723][681]LogContentValidation: Display: Validating StaticMesh /Game/MayaImport/cannonBarellOnly_cannonLarge.cannonBarellOnly_cannonLarge
+[2022.03.29-17.49.25:724][681]LogContentValidation: Display: Validating StaticMesh /Game/MayaImport/ChestImp_chest.ChestImp_chest
+[2022.03.29-17.49.25:724][681]LogContentValidation: Display: Validating StaticMesh /Game/MayaImport/ChestImp_lid.ChestImp_lid
+[2022.03.29-17.49.25:724][681]LogContentValidation: Display: Validating StaticMesh /Game/MayaImport/CanonLarge_cannonLarge.CanonLarge_cannonLarge
+[2022.03.29-17.49.25:724][681]LogContentValidation: Display: Validating StaticMesh /Game/MayaImport/CanonLarge_barrel_1.CanonLarge_barrel_1
+[2022.03.29-17.49.25:724][681]LogContentValidation: Display: Validating StaticMesh /Game/MayaImport/cannonBarellOnly_barrel_1.cannonBarellOnly_barrel_1
+[2022.03.29-17.49.27:556][893]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2022.03.29-17.49.27:870][928]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2022.03.29-17.49.28:125][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2022.03.29-17.49.28:692][ 18]AssetReimport: Reimported asset cannonBarellOnly_barrel_1 from C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/cannonBarellOnly.fbx.
+[2022.03.29-17.49.28:692][ 18]AssetReimport: Reimported asset cannonBarellOnly_cannonLarge from C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/cannonBarellOnly.fbx.
+[2022.03.29-17.49.28:692][ 18]AssetReimport: Reimported asset CanonLarge_barrel_1 from C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/CanonLarge.fbx.
+[2022.03.29-17.49.28:692][ 18]AssetReimport: Reimported asset CanonLarge_cannonLarge from C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/CanonLarge.fbx.
+[2022.03.29-17.49.28:692][ 18]AssetReimport: Reimported asset ChestImp_chest from C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/ChestImp.fbx.
+[2022.03.29-17.49.28:692][ 18]AssetReimport: Reimported asset ChestImp_lid from C:/Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/Content/MayaImport/ChestImp.fbx.
+[2022.03.29-17.49.31:064][298]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.03.29-17.49.31:403][338]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.03.29-17.49.31:782][383]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.03.29-17.49.31:836][387]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.03.29-17.49.32:469][459]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
