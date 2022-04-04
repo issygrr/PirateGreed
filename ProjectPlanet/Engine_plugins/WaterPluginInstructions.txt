@@ -1,0 +1,4 @@
+How to install the water plugin:
+
+1.Go to edit > Plugins
+2.type "water" and the water plugin should show up and click enable. Its version 0.1
