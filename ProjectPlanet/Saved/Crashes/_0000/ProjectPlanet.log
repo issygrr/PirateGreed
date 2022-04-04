@@ -1,0 +1,6 @@
+Not using cached read wrapper
+ReadFile failed: Count=0 Length=164 Error=The cloud sync provider failed to validate the downloaded data. for file ../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/ProjectPlanet.uproject
+Failed to open descriptor file ../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/ProjectPlanet.uproject
+Message dialog closed, result: Ok, title: Message, text: Failed to open descriptor file ../../../../../../Users/P2538145/OneDrive - De Montfort University/ProjectPlanet/ProjectPlanet/ProjectPlanet.uproject
+Could not find a valid project file, the engine will exit now.
+Engine exit requested (reason: EngineExit() was called)
